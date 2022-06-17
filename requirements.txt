@@ -19,7 +19,7 @@ Jinja2==2.8
 lxml==3.6.0
 Mako==1.0.4
 MarkupSafe==0.23
-numpy==1.11.1
+numpy==1.21.0
 pafy==0.5.1
 psycopg2==2.6.1
 pycparser==2.14
